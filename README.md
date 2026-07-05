@@ -12,7 +12,7 @@ A GPU-accelerated path tracer implemented entirely in **GLSL fragment shaders** 
 
 | No Lights (Env Map) | Mirror Box | Rough Mirror |
 |---|---|---|
-| ![](./images/PT_cornellBoxNoLights.png) | ![](./images/PT_mirrorBoxDemo.png) | ![](./images/PT_roughMirrorBoxUniform.png) |
+| ![](./images/PT_cornellBoxNoLights.png) | ![](./mirrorBox.png) | ![](./images/PT_roughMirrorBoxUniform.png) |
 
 | Mirror Sphere | Glass Ball (Blue) | Glass Ball (Cone) |
 |---|---|---|
