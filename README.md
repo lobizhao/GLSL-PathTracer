@@ -1,8 +1,5 @@
 # GLSL Path Tracer — Global Illumination
 
-> University of Pennsylvania, CIS 561: Advanced Computer Graphics  
-> Author: LobiZhao | PennKey: 74380840
-
 A GPU-accelerated path tracer implemented entirely in **GLSL fragment shaders** using **OpenGL 3.3 + Qt 6**. All rendering logic runs on the GPU — each pixel is a fragment shader invocation that traces rays through the scene and accumulates light progressively across frames.
 
 ---
